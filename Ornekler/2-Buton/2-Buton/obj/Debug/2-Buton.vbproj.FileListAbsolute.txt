@@ -1,0 +1,11 @@
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\2-Buton\2-Buton\bin\Debug\2-Buton.exe.config
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\2-Buton\2-Buton\bin\Debug\2-Buton.exe
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\2-Buton\2-Buton\bin\Debug\2-Buton.pdb
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\2-Buton\2-Buton\bin\Debug\2-Buton.xml
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\2-Buton\2-Buton\obj\Debug\2-Buton.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\2-Buton\2-Buton\obj\Debug\_2_Buton.Form1.resources
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\2-Buton\2-Buton\obj\Debug\_2_Buton.Resources.resources
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\2-Buton\2-Buton\obj\Debug\2-Buton.vbproj.GenerateResource.Cache
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\2-Buton\2-Buton\obj\Debug\2-Buton.exe
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\2-Buton\2-Buton\obj\Debug\2-Buton.xml
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\2-Buton\2-Buton\obj\Debug\2-Buton.pdb
