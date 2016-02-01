@@ -1,0 +1,11 @@
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\3-List-Box\3-List-Box\bin\Debug\3-List-Box.exe.config
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\3-List-Box\3-List-Box\bin\Debug\3-List-Box.exe
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\3-List-Box\3-List-Box\bin\Debug\3-List-Box.pdb
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\3-List-Box\3-List-Box\bin\Debug\3-List-Box.xml
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\3-List-Box\3-List-Box\obj\Debug\3-List-Box.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\3-List-Box\3-List-Box\obj\Debug\_3_List_Box.Form1.resources
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\3-List-Box\3-List-Box\obj\Debug\_3_List_Box.Resources.resources
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\3-List-Box\3-List-Box\obj\Debug\3-List-Box.vbproj.GenerateResource.Cache
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\3-List-Box\3-List-Box\obj\Debug\3-List-Box.exe
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\3-List-Box\3-List-Box\obj\Debug\3-List-Box.xml
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\3-List-Box\3-List-Box\obj\Debug\3-List-Box.pdb
