@@ -1,0 +1,11 @@
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\4-Matematiksel-islemler\4-Matematiksel-islemler\bin\Debug\4-Matematiksel-islemler.exe.config
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\4-Matematiksel-islemler\4-Matematiksel-islemler\bin\Debug\4-Matematiksel-islemler.exe
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\4-Matematiksel-islemler\4-Matematiksel-islemler\bin\Debug\4-Matematiksel-islemler.pdb
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\4-Matematiksel-islemler\4-Matematiksel-islemler\bin\Debug\4-Matematiksel-islemler.xml
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\4-Matematiksel-islemler\4-Matematiksel-islemler\obj\Debug\4-Matematiksel-islemler.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\4-Matematiksel-islemler\4-Matematiksel-islemler\obj\Debug\_4_Matematiksel_islemler.Form1.resources
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\4-Matematiksel-islemler\4-Matematiksel-islemler\obj\Debug\_4_Matematiksel_islemler.Resources.resources
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\4-Matematiksel-islemler\4-Matematiksel-islemler\obj\Debug\4-Matematiksel-islemler.vbproj.GenerateResource.Cache
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\4-Matematiksel-islemler\4-Matematiksel-islemler\obj\Debug\4-Matematiksel-islemler.exe
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\4-Matematiksel-islemler\4-Matematiksel-islemler\obj\Debug\4-Matematiksel-islemler.xml
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\4-Matematiksel-islemler\4-Matematiksel-islemler\obj\Debug\4-Matematiksel-islemler.pdb
