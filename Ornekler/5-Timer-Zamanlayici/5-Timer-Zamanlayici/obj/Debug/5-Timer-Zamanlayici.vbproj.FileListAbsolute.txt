@@ -1,0 +1,11 @@
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\5-Timer-Zamanlayici\5-Timer-Zamanlayici\bin\Debug\5-Timer-Zamanlayici.exe.config
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\5-Timer-Zamanlayici\5-Timer-Zamanlayici\bin\Debug\5-Timer-Zamanlayici.exe
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\5-Timer-Zamanlayici\5-Timer-Zamanlayici\bin\Debug\5-Timer-Zamanlayici.pdb
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\5-Timer-Zamanlayici\5-Timer-Zamanlayici\bin\Debug\5-Timer-Zamanlayici.xml
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\5-Timer-Zamanlayici\5-Timer-Zamanlayici\obj\Debug\5-Timer-Zamanlayici.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\5-Timer-Zamanlayici\5-Timer-Zamanlayici\obj\Debug\_5_Timer_Zamanlayici.Form1.resources
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\5-Timer-Zamanlayici\5-Timer-Zamanlayici\obj\Debug\_5_Timer_Zamanlayici.Resources.resources
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\5-Timer-Zamanlayici\5-Timer-Zamanlayici\obj\Debug\5-Timer-Zamanlayici.vbproj.GenerateResource.Cache
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\5-Timer-Zamanlayici\5-Timer-Zamanlayici\obj\Debug\5-Timer-Zamanlayici.exe
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\5-Timer-Zamanlayici\5-Timer-Zamanlayici\obj\Debug\5-Timer-Zamanlayici.xml
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\5-Timer-Zamanlayici\5-Timer-Zamanlayici\obj\Debug\5-Timer-Zamanlayici.pdb
