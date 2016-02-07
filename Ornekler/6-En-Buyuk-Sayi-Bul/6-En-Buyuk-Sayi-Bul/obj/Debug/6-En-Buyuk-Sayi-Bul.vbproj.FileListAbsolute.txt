@@ -1,1 +1,11 @@
 C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\6-En-Buyuk-Sayi-Bul\6-En-Buyuk-Sayi-Bul\bin\Debug\6-En-Buyuk-Sayi-Bul.exe.config
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\6-En-Buyuk-Sayi-Bul\6-En-Buyuk-Sayi-Bul\bin\Debug\6-En-Buyuk-Sayi-Bul.exe
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\6-En-Buyuk-Sayi-Bul\6-En-Buyuk-Sayi-Bul\bin\Debug\6-En-Buyuk-Sayi-Bul.pdb
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\6-En-Buyuk-Sayi-Bul\6-En-Buyuk-Sayi-Bul\bin\Debug\6-En-Buyuk-Sayi-Bul.xml
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\6-En-Buyuk-Sayi-Bul\6-En-Buyuk-Sayi-Bul\obj\Debug\6-En-Buyuk-Sayi-Bul.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\6-En-Buyuk-Sayi-Bul\6-En-Buyuk-Sayi-Bul\obj\Debug\_6_En_Buyuk_Sayi_Bul.Form1.resources
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\6-En-Buyuk-Sayi-Bul\6-En-Buyuk-Sayi-Bul\obj\Debug\_6_En_Buyuk_Sayi_Bul.Resources.resources
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\6-En-Buyuk-Sayi-Bul\6-En-Buyuk-Sayi-Bul\obj\Debug\6-En-Buyuk-Sayi-Bul.vbproj.GenerateResource.Cache
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\6-En-Buyuk-Sayi-Bul\6-En-Buyuk-Sayi-Bul\obj\Debug\6-En-Buyuk-Sayi-Bul.exe
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\6-En-Buyuk-Sayi-Bul\6-En-Buyuk-Sayi-Bul\obj\Debug\6-En-Buyuk-Sayi-Bul.xml
+C:\Users\Lenovo T420\Documents\GitHub\VB-Windows-Form-App\Ornekler\6-En-Buyuk-Sayi-Bul\6-En-Buyuk-Sayi-Bul\obj\Debug\6-En-Buyuk-Sayi-Bul.pdb
